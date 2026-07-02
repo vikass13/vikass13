@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vikas Gupta 👋</h1>
-<h3 align="center">Computer Science Engineering Student | Java Developer | Backend Enthusiast | AWS Learner</h3>
+<h3 align="center">Computer Science Engineering Student | Java Developer | Backend | AWS Learner</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vikasg1304/">
     <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
