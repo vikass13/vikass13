@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Vikas Gupta 👋</h1>
+<h1 align="center">Hi, I'm VIKAS GUPTA 👋</h1>
+<h1 align="center">
 <h3 align="center">Computer Science Engineering Student | Java Developer | Backend | AWS Learner</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vikasg1304/">
