@@ -48,19 +48,15 @@ Projects
 
 ⸻
 
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikass13&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikass13&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
-
-⸻
 
 Connect With Me
 
+* Mobile Number: 7909042752
+* Email: vikas.g1345@gmail.com
 * LinkedIn: https://www.linkedin.com/in/vikasg1304/
 * GitHub: https://github.com/vikass13
+* Instagram: https://www.instagram.com/the.vikaasss?igsh=dnNhaXZkN2JvNGV5
+
 
 ⸻
 
