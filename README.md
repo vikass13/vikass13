@@ -11,13 +11,13 @@
 ---
 
 ## 📖 About Me
-I am an innovative **Computer Science Engineer** with a strong foundation in **Data Structures & Algorithms** and **End-to-End AI Development**. I specialize in bridging the gap between raw data engineering and scalable software solutions.
 
-* 🔭 I’m currently working on **Smart Sahayak** (An AI driven Kiosk Project).
-* 🌱 I’m currently learning **DevOps** and **CI/CD**.
-* 💡 **Innovation:** Conceptualized Production Grade Systems (with AI Automation) and Spy Camera Detection Systems.
-* 💬 Ask me about **Java, Python, AI Pipelines, API Handling, Projects, Pytorch, Kubernetes, Docker, CI/CD, Full Stack Project Management, Pandas, Ai & ML, Pandas, Numpy, Spring Boot & many more**.
+I am a Computer Science Engineering student with a strong foundation in **Data Structures & Algorithms** and a keen interest in Backend Development, **Cloud Computing**, and Software Engineering. Committed to continuous learning, I focus on building scalable, efficient, and reliable software solutions.
 
+* 🔭 I’m currently working on a **Smart Library Management System** for **two real-world offline libraries**.
+* 🌱 I’m currently learning System Design, Cloud Computing, and DevOps.
+* 💡 Interests: Building scalable backend applications, serverless architectures, and cloud-native solutions.
+* 💬 Ask me about Java, Data Structures & Algorithms, Spring Boot, AWS, REST APIs, MySQL, Git, GitHub, Maven, Postman, Backend Development, and Software Engineering.
 ---
 
 ## 🛠️ Tech Stack & Arsenal
