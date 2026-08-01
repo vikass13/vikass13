@@ -24,62 +24,51 @@ I am a Computer Science Engineering student with a strong foundation in **Data S
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-black?logo=java) ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![C](https://img.shields.io/badge/-C-black?logo=c) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) |
-| **AI & Data Science** | ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch) ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?logo=scikit-learn) |
-| **Web Dev** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?logo=springboot) ![React](https://img.shields.io/badge/-React-black?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=nodedotjs) ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit) ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman) |
-
+| **Professional Journey** | 🚀 Passionate about building scalable software solutions and continuously enhancing my development skills through real-world projects. |
+| **Current Focus** | 💻 Full-Stack Development • Backend Engineering |
+| **Core Expertise** | ⚡ REST APIs • Object-Oriented Programming • Data Structures & Algorithms • Database Design |
+| **Projects** | 📂  • Full-Stack Web Applications • Automation Tools • Data-Driven Solutions |
+| **Learning** | 📚 System Design • Cloud Computing • Generative AI • Advanced Backend Development |
+| **Career Goal** | 🎯 Aspiring Software Engineer focused on creating impactful, scalable, and intelligent software solutions. |
 ---
 
 ## 🚀 Featured Projects
 
-### 🛰️ [AMBARAM Sentinel - AI Weather Prediction](https://github.com/srtsubham/Minor_Project_Ambaram)
-* **Tech:** Python, PyTorch, Streamlit, SQLite.
-* **Description:** Advanced meteorological dashboard tracking extreme weather events (Cyclones, Heatwaves) using ISRO satellite telemetry.
-* **Role:** Project Lead & AI Architect.
 
-### ⛰️ [Hill and Valleys Prediction](https://github.com/srtsubham/YBI-Internship-Prediction-Modeling-of-Hills-and-Valleys)
-* **Tech:** Python, Pandas, Scikit-learn.
-* **Description:** Conducted rigorous EDA and Feature Engineering to optimize regression models for topographical analysis.
-* **Context:** Internship at YBI Foundation.
 
-### 🤖 [AI PHILOSOPHY](https://aiphilosophy.netlify.app/)
-* **Tech:** HTML, CSS, JavaScript.
-* **Description:** A public-facing platform discussing AI ethics, featuring a prototype chatbot interface.
 
 ---
 
 ## 💼 Professional Experience
 
-| Role | Organization | Timeline |
-| :--- | :--- | :--- |
-| **AI & ML Intern** | **YBI Foundation** (Remote) | *Sept 2024 - Nov 2024* |
-
-## 💻 Job Simulations
-
-| **Software Engineer Intern** | **JPMorgan Chase & Co.** (Virtual/Forage) | *Oct 2024 - Nov 2024* |
-| :--- | :--- | :--- |
-| **Solutions Architect Intern** | **AWS** (Virtual/Forage) | *Jul 2024 - Aug 2024* |
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srtsubham&show_icons=true&theme=radical&count_private=true" height="150" alt="Somya's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtsubham&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikass13&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vikass13&layout=compact&theme=radical" height="165" />
+</p>
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vikass13&theme=radical&hide_border=true" />
+</p>
+
 
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/somya-ranjan-tripathi-9136b42a4/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="somya ranjan tripathi" /></a>
-<a href="mailto:somyar.tripathi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="somyar.tripathi@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/vikasg1304/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vikas Srivastava" />
+  </a>
+  <a href="mailto:vikas.g1345@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vikas.g1345@gmail.com" />
+  </a>
 </p>
-
 <p align="center">
   <small>© 2026 Vikas Gupta | "Software Engineer with purpose-driven commits"</small>
 </p>
