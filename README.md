@@ -1,6 +1,6 @@
 # VIKAS GUPTA
 
-### AI Systems Engineer | Full Stack Developer | DevOps & Scalable Infrastructure
+###  Full Stack Developer | DevOps & Scalable Infrastructure
 **Lucknow, India** 🇮🇳
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,9 +54,8 @@ I am a Computer Science Engineering student with a strong foundation in **Data S
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vikass13&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vikass13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ## 🤝 Connect With Me
 
